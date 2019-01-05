@@ -42,8 +42,8 @@ Want to submit a useful code-chunk? Please submit as a [Pull Request](https://gi
 ## [2019](data/2019)
 | Week | Date | Data | Source | Article
 | :---: | :---: | :--- | :--- | :---|
-| 1 | `2019-01-01` | [#Rstats & #TidyTuesday Tweets](data/2019/2019-01-01) | [`rtweet`](https://rtweet.info/) | [stackoverflow.blog](https://stackoverflow.blog/2017/10/10/impressive-growth-r/) |
-| 2 | `2019-01-08` | [TV's Golden Age](data/2019/2019-01-08) | [IMDb](https://www.imdb.com/) | [The Economist](https://www.economist.com/graphic-detail/2018/11/24/tvs-golden-age-is-real) |
+| 1 | `2019-01-01` | [#Rstats & #TidyTuesday Tweets](/data/2019/2019-01-01) | [`rtweet`](https://rtweet.info/) | [stackoverflow.blog](https://stackoverflow.blog/2017/10/10/impressive-growth-r/) |
+| 2 | `2019-01-08` | [TV's Golden Age](/data/2019/2019-01-08) | [IMDb](https://www.imdb.com/) | [The Economist](https://www.economist.com/graphic-detail/2018/11/24/tvs-golden-age-is-real) |
 
 ***  
 
